@@ -28,6 +28,7 @@ I'm a recent **Software Developer** who is passionate about **AI**, **cybersecur
 > ⚠️  coming soon.
 
 - 🧩 [AI & ML Projects](#) *(coming soon)*
+- 💁‍♂️ [Helpdesk Project/Labs](https://github.com/thecalebyte/helpdesklabs)
 - 🧱 
 - 🔒 
 - 🌐 
