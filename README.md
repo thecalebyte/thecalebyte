@@ -27,7 +27,6 @@ I'm a recent **Software Developer** who is passionate about **AI**, **cybersecur
 
 > ⚠️  coming soon.
 
-- 🧩 [AI & ML Projects](#) *(coming soon)*
 - 💁‍♂️ [Helpdesk Project/Labs](https://github.com/thecalebyte/helpdesklabs)
 - 🧱 
 - 🔒 
@@ -45,10 +44,10 @@ I'm open to **internships, graduate roles**, and **collaboration** opportunities
 
 ### 🧠 Currently Learning
 
-- 🐳 Docker orchestration
-- ☁️ Deeper Azure cloud services
 - 🔐 Cybersecurity frameworks
-- 🤖 LLMs and Transformers
+- ☁️ Deeper Azure cloud services
+- 🤖 
+- 🐳
 
 ---
 
