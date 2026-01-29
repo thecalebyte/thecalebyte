@@ -23,14 +23,11 @@ I'm a recent **Software Developer** who is passionate about **AI**, **cybersecur
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects 💁‍♂️🧱 🔒 🌐 
 
 > ⚠️  coming soon.
 
-- 💁‍♂️
-- 🧱 
-- 🔒 
-- 🌐 
+
 
 
 
@@ -45,9 +42,9 @@ I'm open to **graduate roles**, and **collaboration** opportunities.
 ### 🧠 Currently Learning
 
 - 🔐 Cybersecurity frameworks
-  <☁️ 🤖 🐳>
+  < ☁️ 🤖 🐳>
 
 ---
 
-Thanks for stopping by — feel free to explore my repos or reach out!
+Thanks for stopping by!
 
