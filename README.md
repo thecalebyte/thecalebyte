@@ -27,7 +27,7 @@ I'm a recent **Software Developer** who is passionate about **AI**, **cybersecur
 
 > ⚠️  coming soon.
 
-- 💁‍♂️ [Helpdesk Project/Labs](https://github.com/thecalebyte/helpdesklabs)
+- 💁‍♂️
 - 🧱 
 - 🔒 
 - 🌐 
@@ -38,18 +38,16 @@ I'm a recent **Software Developer** who is passionate about **AI**, **cybersecur
 
 ### 📫 Let's Connect
 
-I'm open to **internships, graduate roles**, and **collaboration** opportunities.
+I'm open to **graduate roles**, and **collaboration** opportunities.
 
 ---
 
 ### 🧠 Currently Learning
 
 - 🔐 Cybersecurity frameworks
-- ☁️ Deeper Azure cloud services
-- 🤖 
-- 🐳
+  <☁️ 🤖 🐳>
 
 ---
 
-_Thanks for stopping by — feel free to explore my repos or reach out!_
+Thanks for stopping by — feel free to explore my repos or reach out!
 
