@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 👋 Welcome to My GitHub
 
-I'm a recent **Software Developer** who is passionate about **AI**, **cybersecurity**, and **backend development**. This space showcases my journey through hands-on projects, experiments, and learning.
+I'm a **Software Developer** who is passionate about **AI**, **cybersecurity**, and **backend development**. This space showcases my journey through hands-on projects, experiments, and learning.
 
 ---
 
